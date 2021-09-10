@@ -28,7 +28,7 @@ export default function Result(props) {
         <div>
             <h1>
                 {/* {Dino[props.dinoind].name} */}
-                hello
+                Result
             </h1>
         </div>
     )
